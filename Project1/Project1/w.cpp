@@ -53,7 +53,7 @@ int main() {
             cout << bron;
             cout << shet;
             cout << posox;
-            cout << ticket;
+            cout << ticket \n;
 
             cin >> input;
 
